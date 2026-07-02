@@ -1,9 +1,10 @@
 # WASTE-CLASSIFICATION-SIS-DSAI
 Deep Learning for Intelligent Waste Classification
 
-Group Members
+**Group Members**
 -Fabianus Jandito Anung Pragitama - 2702248931
 -Rafhel Pangestu - 2702257715
+
 **Dataset**
 The models utilize the Recyclable and Household Waste Classification dataset from Kaggle, which contains various waste images mapped into six primary classes: Plastic, Paper, Glass, Metal, Organic, and Textile. Dataset Link: 
 https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
